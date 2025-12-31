@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "deploy": "npm --prefix new-year-gift run deploy"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
